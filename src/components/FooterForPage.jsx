@@ -18,7 +18,7 @@ export default function FooterForPage(){
 
              
 
-                <a href="digitalheroesco.com"
+                <a href="https://digitalheroesco.com"
                 target="_blank"
                 rel="noopener noreferrer">
 
