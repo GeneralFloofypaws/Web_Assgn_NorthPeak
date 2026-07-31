@@ -18,7 +18,7 @@ export default function FooterForPage(){
 
              
 
-                <a href="https://www.linkedin.com/company/digital-heroes-1/posts/?feedView=all"
+                <a href="digitalheroesco.com"
                 target="_blank"
                 rel="noopener noreferrer">
 
