@@ -535,7 +535,7 @@ nav a:hover::after{
 
 .card-track {
 
-    width: 380px;
+    width: min(380px, 95vw);
 
     height: 85vh;
 
@@ -1051,13 +1051,34 @@ nav a:hover::after{
 
 }
 
-@media (max-width: 768px) {
+@media (max-width:768px){
 
-    .glasscard {
+    .card-track{
 
-        justify-content: flex-start;
-        padding-top: 2rem;
-        padding-bottom: 2rem;
+        width:95vw;
+        height:75vh;
+        padding:1rem;
+
+    }
+
+    .glasscard{
+
+        min-height:auto;
+        padding:1.5rem;
+        justify-content:flex-start;
+
+    }
+
+    .glasscard h2{
+
+        font-size:1.7rem;
+
+    }
+
+    .glasscard p{
+
+        line-height:1.6;
+        font-size:.95rem;
 
     }
 
@@ -1065,15 +1086,3 @@ nav a:hover::after{
 
 /*the words keep overflowing ... left the chat bruh*/
 
-@media (max-width:768px){
-
-    .glasscard h1{
-        font-size:1.7rem;
-    }
-
-    .glasscard p{
-        font-size:0.95rem;
-        line-height:1.6;
-    }
-
-}
