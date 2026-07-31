@@ -571,6 +571,8 @@ nav a:hover::after{
 
     min-height: 320px;
 
+    height: auto;
+
     padding: 2.2rem;
 
     border-radius: var(--radius);
@@ -582,6 +584,10 @@ nav a:hover::after{
     border: 1px solid var(--border);
 
     box-shadow: var(--shadow);
+
+    overflow-wrap:break-word;
+
+    word-break:break-word;
 
     scroll-snap-align: center;
 
@@ -1041,6 +1047,33 @@ nav a:hover::after{
 
         display:none;
 
+    }
+
+}
+
+@media (max-width: 768px) {
+
+    .glasscard {
+
+        justify-content: flex-start;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+
+    }
+
+}
+
+/*the words keep overflowing ... left the chat bruh*/
+
+@media (max-width:768px){
+
+    .glasscard h1{
+        font-size:1.7rem;
+    }
+
+    .glasscard p{
+        font-size:0.95rem;
+        line-height:1.6;
     }
 
 }
