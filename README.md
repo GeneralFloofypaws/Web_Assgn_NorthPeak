@@ -1,18 +1,118 @@
-# React + Vite
+## Live Demo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://web-assgn-north-peak.vercel.app/
 
-Currently, two official plugins are available:
+## GitHub Repository
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://github.com/GeneralFloofypaws/Web_Assgn_NorthPeak
 
-## React Compiler
+# NorthPeak Digital
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+A fictional digital product studio built for the Digital Heroes Frontend Internship Qualification Task.
 
-Note: This will impact Vite dev & build performances.
+**Live Site:** https://web-assgn-north-peak.vercel.app/
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- React
+- Vite
+- CSS3
+- Vercel
+- GitHub
+
+---
+
+## Lighthouse Results
+
+| Category | Score |
+|----------|------:|
+| Performance | 95 |
+| Accessibility | 100 |
+| Best Practices | 100 |
+| SEO | 100 |
+
+### Screenshots
+
+![Lighthouse Overview](./LIGHTHOUSE.png)
+
+![Performance Metrics](./LIGHTHOUSE-METRICS.png)
+
+---
+
+## Optimization Changelog
+
+### 1. SEO Improvements
+
+- Added a descriptive page title.
+- Added a meta description.
+- Updated favicon and browser theme color.
+
+**Result**
+
+Improved discoverability and achieved a perfect SEO Lighthouse score.
+
+---
+
+### 2. Accessibility
+
+- Used semantic HTML structure.
+- Added meaningful alt text to images.
+- Ensured buttons and links were descriptive.
+
+**Result**
+
+Accessibility score improved to **100**.
+
+---
+
+### 3. Responsive Design
+
+- Added responsive media queries.
+- Fixed overflow issues in the vertical scrolling cards.
+- Adjusted typography and spacing for smaller screens.
+
+**Result**
+
+Consistent experience across desktop, tablet and mobile devices.
+
+---
+
+### 4. Performance
+
+- Optimized image assets.
+- Kept the component structure lightweight.
+- Built and deployed a production build using Vercel.
+
+**Result**
+
+Performance reached **95**.
+
+---
+
+### 5. Deployment
+
+- Connected GitHub repository to Vercel.
+- Enabled automatic deployments on every GitHub push.
+
+**Result**
+
+Each commit automatically builds and publishes the latest version.
+
+---
+
+## AI Usage
+
+AI was used as a development assistant for brainstorming real-world bussiness-like language and wording to emulate a real-world digital company (North Peak), and for thorough debugging purposes. All implementation decisions, testing etc. were completed manually. 
+
+---
+
+## Loom Walkthrough
+
+Loom Link:
+```
+
+(Paste the Loom URL here.)
+
+```
