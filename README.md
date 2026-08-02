@@ -115,6 +115,6 @@ AI was used as a development assistant for brainstorming real-world bussiness-li
 Loom Link:
 ```
 
-(Paste the Loom URL here.)
+https://www.loom.com/share/4bb47a6887974cc88640f292ac172475
 
 ```
