@@ -1,3 +1,5 @@
+Note : screenshots are enclosed in the README as well ... 
+
 ## Live Demo
 
 https://web-assgn-north-peak.vercel.app/
@@ -35,9 +37,9 @@ A fictional digital product studio built for the Digital Heroes Frontend Interns
 
 ### Screenshots
 
-![Lighthouse Overview](./imgs/performance.png)
+<img width="678" height="598" alt="image" src="https://github.com/user-attachments/assets/29d0e502-2848-404f-988c-8974037aea6d" />
 
-![Performance Metrics](./imgs/accessibility.png)
+<img width="682" height="755" alt="image" src="https://github.com/user-attachments/assets/c01100d3-0c86-4f2d-9a91-dc306f8770d9" />
 
 ---
 
