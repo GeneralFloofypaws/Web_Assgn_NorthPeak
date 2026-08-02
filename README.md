@@ -35,9 +35,9 @@ A fictional digital product studio built for the Digital Heroes Frontend Interns
 
 ### Screenshots
 
-![Lighthouse Overview](./LIGHTHOUSE.png)
+![Lighthouse Overview](./imgs/performance.png)
 
-![Performance Metrics](./LIGHTHOUSE-METRICS.png)
+![Performance Metrics](./imgs/accessibility.png)
 
 ---
 
